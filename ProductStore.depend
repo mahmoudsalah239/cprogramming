@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1702050537 source:d:\cprograming\project\productstore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+
